@@ -1,0 +1,301 @@
+InvoiceNo,CustomerID,ProductID,ProductName,Category,Quantity,UnitPrice,InvoiceDate,Region
+10001,501,601,Almond Milk,Dairy,4,20.00,2024-05-01,East
+10002,502,602,Baguette,Bakery,8,122.00,2024-06-01,South
+10003,503,603,Organic Eggs,Dairy,4,354.00,2024-07-01,North
+10004,504,604,Ghee,Dairy,14,24.00,2024-08-01,North
+10005,505,605,Green Apple,Fruit,3,119.00,2024-09-01,South
+10006,506,606,Valencia Orange,Fruit,1,295.00,2024-10-01,South
+10007,507,607,Paneer,Dairy,14,120.00,2024-11-01,West
+10008,508,608,Cavendish Banana,Fruit,9,422.00,2024-12-01,North
+10009,509,609,Chocolate Cake,Bakery,6,365.00,2024-01-13,West
+10010,510,610,Turkey,Meat,11,150.00,2024-01-14,South
+10011,511,611,Ground Beef,Meat,7,498.00,2024-01-15,East
+10012,512,612,Oat Cookies,Bakery,4,55.00,2024-01-16,West
+10013,513,613,Cherry Tomato,Vegetable,4,191.00,2024-01-17,East
+10014,514,614,Red Potato,Vegetable,9,421.00,2024-01-18,North
+10015,515,615,Yellow Onion,Vegetable,15,282.00,2024-01-19,North
+10016,516,616,Tofu,Dairy,13,48.00,2024-01-20,East
+10017,517,617,Jasmine Rice,Grain,12,303.00,2024-01-21,South
+10018,518,618,Whole Wheat Flour,Grain,3,31.00,2024-01-22,South
+10019,519,619,Strawberry,Fruit,10,48.00,2024-01-23,South
+10020,520,620,Blueberry,Fruit,4,202.00,2024-01-24,East
+10021,521,621,Romaine Lettuce,Vegetable,15,333.00,2024-01-25,East
+10022,522,622,English Cucumber,Vegetable,6,197.00,2024-01-26,East
+10023,523,623,Carrot,Vegetable,7,351.00,2024-01-27,East
+10024,524,624,Alphonso Mango,Fruit,3,319.00,2024-01-28,South
+10025,525,625,Honey Pineapple,Fruit,8,91.00,2024-01-29,West
+10026,526,626,Greek Yogurt,Dairy,13,146.00,2024-01-30,South
+10027,527,627,Peanut Cookies,Bakery,11,439.00,2024-01-31,North
+10028,528,628,Strawberry Jam,Bakery,8,428.00,2024-01-02,North
+10029,529,629,Lamb,Meat,11,213.00,2024-02-02,East
+10030,530,630,Grilled Chicken,Meat,3,116.00,2024-03-02,East
+10031,531,631,Free-range Eggs,Dairy,7,343.00,2024-04-02,West
+10032,532,632,Skim Milk,Dairy,13,460.00,2024-05-02,West
+10033,533,633,Sourdough Bread,Bakery,5,143.00,2024-06-02,South
+10034,534,634,Butter,Dairy,8,389.00,2024-07-02,East
+10035,535,635,Red Apple,Fruit,14,467.00,2024-08-02,West
+10036,536,636,Navel Orange,Fruit,12,120.00,2024-09-02,South
+10037,537,637,Mozzarella Cheese,Dairy,16,54.00,2024-10-02,North
+10038,538,638,Vanilla Cake,Bakery,4,86.00,2024-11-02,South
+10039,539,639,Roast Chicken,Meat,14,313.00,2024-12-02,North
+10040,540,640,Beef Steak,Meat,13,203.00,2024-02-13,West
+10041,541,641,Oatmeal Cookies,Bakery,9,291.00,2024-02-14,North
+10042,542,642,Grape Tomato,Vegetable,4,357.00,2024-02-15,East
+10043,543,643,Sweet Potato,Vegetable,11,65.00,2024-02-16,East
+10044,544,644,White Onion,Vegetable,14,88.00,2024-02-17,West
+10045,545,645,Basmati Rice,Grain,1,496.00,2024-02-18,East
+10046,546,601,Almond Milk,Dairy,6,267.00,2024-02-19,North
+10047,547,602,Baguette,Bakery,10,438.00,2024-02-20,South
+10048,548,603,Organic Eggs,Dairy,5,199.00,2024-02-21,South
+10049,549,604,Ghee,Dairy,1,314.00,2024-02-22,East
+10050,550,605,Green Apple,Fruit,16,17.00,2024-02-23,North
+10051,551,606,Valencia Orange,Fruit,12,457.00,2024-02-24,East
+10052,552,607,Paneer,Dairy,8,37.00,2024-02-25,South
+10053,553,608,Cavendish Banana,Fruit,3,51.00,2024-02-26,West
+10054,554,609,Chocolate Cake,Bakery,3,397.00,2024-02-27,South
+10055,555,610,Turkey,Meat,5,345.00,2024-02-28,West
+10056,556,611,Ground Beef,Meat,6,143.00,2024-02-29,West
+10057,557,612,Oat Cookies,Bakery,7,483.00,2024-01-03,South
+10058,558,613,Cherry Tomato,Vegetable,10,212.00,2024-02-03,East
+10059,559,614,Red Potato,Vegetable,15,468.00,2024-03-03,West
+10060,560,615,Yellow Onion,Vegetable,4,134.00,2024-04-03,South
+10061,561,616,Tofu,Dairy,3,181.00,2024-05-03,North
+10062,562,617,Jasmine Rice,Grain,8,309.00,2024-06-03,South
+10063,563,618,Whole Wheat Flour,Grain,1,44.00,2024-07-03,North
+10064,564,619,Strawberry,Fruit,8,42.00,2024-08-03,North
+10065,565,620,Blueberry,Fruit,11,44.00,2024-09-03,South
+10066,566,621,Romaine Lettuce,Vegetable,9,350.00,2024-10-03,West
+10067,567,622,English Cucumber,Vegetable,7,284.00,2024-11-03,South
+10068,568,623,Carrot,Vegetable,16,132.00,2024-12-03,West
+10069,569,624,Alphonso Mango,Fruit,14,105.00,2024-03-13,North
+10070,570,625,Honey Pineapple,Fruit,4,345.00,2024-03-14,West
+10071,571,626,Greek Yogurt,Dairy,12,224.00,2024-03-15,West
+10072,572,627,Peanut Cookies,Bakery,15,450.00,2024-03-16,North
+10073,573,628,Strawberry Jam,Bakery,4,39.00,2024-03-17,West
+10074,574,629,Lamb,Meat,11,417.00,2024-03-18,North
+10075,575,630,Grilled Chicken,Meat,8,106.00,2024-03-19,South
+10076,576,631,Free-range Eggs,Dairy,15,79.00,2024-03-20,West
+10077,577,632,Skim Milk,Dairy,6,150.00,2024-03-21,West
+10078,578,633,Sourdough Bread,Bakery,8,455.00,2024-03-22,North
+10079,579,634,Butter,Dairy,15,421.00,2024-03-23,North
+10080,580,635,Red Apple,Fruit,2,341.00,2024-03-24,North
+10081,581,636,Navel Orange,Fruit,3,482.00,2024-03-25,South
+10082,582,637,Mozzarella Cheese,Dairy,6,216.00,2024-03-26,West
+10083,583,638,Vanilla Cake,Bakery,16,117.00,2024-03-27,West
+10084,584,639,Roast Chicken,Meat,2,92.00,2024-03-28,West
+10085,585,640,Beef Steak,Meat,1,207.00,2024-03-29,East
+10086,586,641,Oatmeal Cookies,Bakery,15,154.00,2024-03-30,West
+10087,587,642,Grape Tomato,Vegetable,16,87.00,2024-03-31,South
+10088,588,643,Sweet Potato,Vegetable,10,119.00,2024-01-04,North
+10089,589,644,White Onion,Vegetable,2,390.00,2024-02-04,East
+10090,590,645,Basmati Rice,Grain,2,33.00,2024-03-04,West
+10091,591,601,Almond Milk,Dairy,6,37.00,2024-04-04,North
+10092,592,602,Baguette,Bakery,6,43.00,2024-05-04,North
+10093,593,603,Organic Eggs,Dairy,8,214.00,2024-06-04,North
+10094,594,604,Ghee,Dairy,8,304.00,2024-07-04,North
+10095,595,605,Green Apple,Fruit,3,222.00,2024-08-04,East
+10096,596,606,Valencia Orange,Fruit,9,112.00,2024-09-04,East
+10097,597,607,Paneer,Dairy,8,143.00,2024-10-04,West
+10098,598,608,Cavendish Banana,Fruit,5,351.00,2024-11-04,East
+10099,599,609,Chocolate Cake,Bakery,15,169.00,2024-12-04,North
+10100,600,610,Turkey,Meat,1,242.00,2024-04-13,North
+10101,601,611,Ground Beef,Meat,3,283.00,2024-04-14,South
+10102,602,612,Oat Cookies,Bakery,9,75.00,2024-04-15,East
+10103,603,613,Cherry Tomato,Vegetable,3,458.00,2024-04-16,South
+10104,604,614,Red Potato,Vegetable,12,153.00,2024-04-17,South
+10105,605,615,Yellow Onion,Vegetable,15,434.00,2024-04-18,East
+10106,606,616,Tofu,Dairy,1,349.00,2024-04-19,East
+10107,607,617,Jasmine Rice,Grain,4,488.00,2024-04-20,South
+10108,608,618,Whole Wheat Flour,Grain,9,67.00,2024-04-21,North
+10109,609,619,Strawberry,Fruit,5,147.00,2024-04-22,East
+10110,610,620,Blueberry,Fruit,7,375.00,2024-04-23,East
+10111,611,621,Romaine Lettuce,Vegetable,7,359.00,2024-04-24,East
+10112,612,622,English Cucumber,Vegetable,16,136.00,2024-04-25,North
+10113,613,623,Carrot,Vegetable,3,332.00,2024-04-26,West
+10114,614,624,Alphonso Mango,Fruit,9,30.00,2024-04-27,North
+10115,615,625,Honey Pineapple,Fruit,11,402.00,2024-04-28,South
+10116,616,626,Greek Yogurt,Dairy,9,90.00,2024-04-29,West
+10117,617,627,Peanut Cookies,Bakery,14,295.00,2024-04-30,North
+10118,618,628,Strawberry Jam,Bakery,4,46.00,2024-01-05,South
+10119,619,629,Lamb,Meat,2,435.00,2024-02-05,East
+10120,620,630,Grilled Chicken,Meat,5,228.00,2024-03-05,South
+10121,621,631,Free-range Eggs,Dairy,2,165.00,2024-04-05,East
+10122,622,632,Skim Milk,Dairy,2,468.00,2024-05-05,East
+10123,623,633,Sourdough Bread,Bakery,7,357.00,2024-06-05,South
+10124,624,634,Butter,Dairy,4,189.00,2024-07-05,West
+10125,625,635,Red Apple,Fruit,5,481.00,2024-08-05,South
+10126,626,636,Navel Orange,Fruit,6,417.00,2024-09-05,South
+10127,627,637,Mozzarella Cheese,Dairy,14,20.00,2024-10-05,South
+10128,628,638,Vanilla Cake,Bakery,11,408.00,2024-11-05,West
+10129,629,639,Roast Chicken,Meat,8,144.00,2024-12-05,South
+10130,630,640,Beef Steak,Meat,4,203.00,2024-05-13,North
+10131,631,641,Oatmeal Cookies,Bakery,16,121.00,2024-05-14,South
+10132,632,642,Grape Tomato,Vegetable,15,187.00,2024-05-15,East
+10133,633,643,Sweet Potato,Vegetable,8,122.00,2024-05-16,North
+10134,634,644,White Onion,Vegetable,7,212.00,2024-05-17,East
+10135,635,645,Basmati Rice,Grain,9,450.00,2024-05-18,North
+10136,636,601,Almond Milk,Dairy,9,187.00,2024-05-19,West
+10137,637,602,Baguette,Bakery,11,488.00,2024-05-20,North
+10138,638,603,Organic Eggs,Dairy,4,457.00,2024-05-21,East
+10139,639,604,Ghee,Dairy,6,305.00,2024-05-22,East
+10140,640,605,Green Apple,Fruit,2,63.00,2024-05-23,West
+10141,641,606,Valencia Orange,Fruit,12,381.00,2024-05-24,East
+10142,642,607,Paneer,Dairy,14,318.00,2024-05-25,North
+10143,643,608,Cavendish Banana,Fruit,13,468.00,2024-05-26,South
+10144,644,609,Chocolate Cake,Bakery,9,30.00,2024-05-27,West
+10145,645,610,Turkey,Meat,1,274.00,2024-05-28,South
+10146,646,611,Ground Beef,Meat,12,228.00,2024-05-29,North
+10147,647,612,Oat Cookies,Bakery,11,327.00,2024-05-30,East
+10148,648,613,Cherry Tomato,Vegetable,4,376.00,2024-05-31,East
+10149,649,614,Red Potato,Vegetable,10,349.00,2024-01-06,West
+10150,650,615,Yellow Onion,Vegetable,11,214.00,2024-02-06,East
+10151,651,616,Tofu,Dairy,5,106.00,2024-03-06,West
+10152,652,617,Jasmine Rice,Grain,13,354.00,2024-04-06,South
+10153,653,618,Whole Wheat Flour,Grain,10,215.00,2024-05-06,North
+10154,654,619,Strawberry,Fruit,10,154.00,2024-06-06,South
+10155,655,620,Blueberry,Fruit,14,410.00,2024-07-06,East
+10156,656,621,Romaine Lettuce,Vegetable,15,234.00,2024-08-06,West
+10157,657,622,English Cucumber,Vegetable,7,269.00,2024-09-06,West
+10158,658,623,Carrot,Vegetable,6,345.00,2024-10-06,North
+10159,659,624,Alphonso Mango,Fruit,10,271.00,2024-11-06,East
+10160,660,625,Honey Pineapple,Fruit,3,427.00,2024-12-06,South
+10161,661,626,Greek Yogurt,Dairy,10,123.00,2024-06-13,South
+10162,662,627,Peanut Cookies,Bakery,5,20.00,2024-06-14,North
+10163,663,628,Strawberry Jam,Bakery,8,251.00,2024-06-15,North
+10164,664,629,Lamb,Meat,15,220.00,2024-06-16,South
+10165,665,630,Grilled Chicken,Meat,13,261.00,2024-06-17,West
+10166,666,631,Free-range Eggs,Dairy,8,83.00,2024-06-18,North
+10167,667,632,Skim Milk,Dairy,4,406.00,2024-06-19,West
+10168,668,633,Sourdough Bread,Bakery,8,98.00,2024-06-20,West
+10169,669,634,Butter,Dairy,2,293.00,2024-06-21,South
+10170,670,635,Red Apple,Fruit,4,241.00,2024-06-22,South
+10171,671,636,Navel Orange,Fruit,15,349.00,2024-06-23,East
+10172,672,637,Mozzarella Cheese,Dairy,15,321.00,2024-06-24,West
+10173,673,638,Vanilla Cake,Bakery,15,467.00,2024-06-25,South
+10174,674,639,Roast Chicken,Meat,16,238.00,2024-06-26,East
+10175,675,640,Beef Steak,Meat,8,438.00,2024-06-27,East
+10176,676,641,Oatmeal Cookies,Bakery,16,328.00,2024-06-28,South
+10177,677,642,Grape Tomato,Vegetable,9,233.00,2024-06-29,North
+10178,678,643,Sweet Potato,Vegetable,10,128.00,2024-06-30,East
+10179,679,644,White Onion,Vegetable,11,171.00,2024-01-07,North
+10180,680,645,Basmati Rice,Grain,5,85.00,2024-02-07,South
+10181,681,601,Almond Milk,Dairy,13,363.00,2024-03-07,South
+10182,682,602,Baguette,Bakery,7,40.00,2024-04-07,West
+10183,683,603,Organic Eggs,Dairy,14,177.00,2024-05-07,West
+10184,684,604,Ghee,Dairy,14,39.00,2024-06-07,South
+10185,685,605,Green Apple,Fruit,14,207.00,2024-07-07,North
+10186,686,606,Valencia Orange,Fruit,13,252.00,2024-08-07,North
+10187,687,607,Paneer,Dairy,12,160.00,2024-09-07,West
+10188,688,608,Cavendish Banana,Fruit,14,283.00,2024-10-07,South
+10189,689,609,Chocolate Cake,Bakery,16,120.00,2024-11-07,East
+10190,690,610,Turkey,Meat,14,256.00,2024-12-07,North
+10191,691,611,Ground Beef,Meat,13,180.00,2024-07-13,West
+10192,692,612,Oat Cookies,Bakery,6,438.00,2024-07-14,West
+10193,693,613,Cherry Tomato,Vegetable,5,326.00,2024-07-15,North
+10194,694,614,Red Potato,Vegetable,13,311.00,2024-07-16,North
+10195,695,615,Yellow Onion,Vegetable,3,337.00,2024-07-17,West
+10196,696,616,Tofu,Dairy,5,451.00,2024-07-18,West
+10197,697,617,Jasmine Rice,Grain,6,33.00,2024-07-19,East
+10198,698,618,Whole Wheat Flour,Grain,13,175.00,2024-07-20,South
+10199,699,619,Strawberry,Fruit,15,175.00,2024-07-21,East
+10200,700,620,Blueberry,Fruit,13,150.00,2024-07-22,West
+10201,701,621,Romaine Lettuce,Vegetable,9,435.00,2024-07-23,North
+10202,702,622,English Cucumber,Vegetable,16,17.00,2024-07-24,North
+10203,703,623,Carrot,Vegetable,12,122.00,2024-07-25,North
+10204,704,624,Alphonso Mango,Fruit,2,394.00,2024-07-26,North
+10205,705,625,Honey Pineapple,Fruit,8,110.00,2024-07-27,North
+10206,706,626,Greek Yogurt,Dairy,5,130.00,2024-07-28,South
+10207,707,627,Peanut Cookies,Bakery,16,350.00,2024-07-29,North
+10208,708,628,Strawberry Jam,Bakery,7,246.00,2024-07-30,East
+10209,709,629,Lamb,Meat,12,93.00,2024-07-31,North
+10210,710,630,Grilled Chicken,Meat,6,167.00,2024-01-08,North
+10211,711,631,Free-range Eggs,Dairy,1,483.00,2024-02-08,East
+10212,712,632,Skim Milk,Dairy,13,211.00,2024-03-08,South
+10213,713,633,Sourdough Bread,Bakery,3,311.00,2024-04-08,South
+10214,714,634,Butter,Dairy,4,364.00,2024-05-08,East
+10215,715,635,Red Apple,Fruit,4,415.00,2024-06-08,North
+10216,716,636,Navel Orange,Fruit,12,280.00,2024-07-08,West
+10217,717,637,Mozzarella Cheese,Dairy,12,43.00,2024-08-08,East
+10218,718,638,Vanilla Cake,Bakery,1,442.00,2024-09-08,West
+10219,719,639,Roast Chicken,Meat,16,62.00,2024-10-08,West
+10220,720,640,Beef Steak,Meat,12,333.00,2024-11-08,West
+10221,721,641,Oatmeal Cookies,Bakery,5,230.00,2024-12-08,South
+10222,722,642,Grape Tomato,Vegetable,9,323.00,2024-08-13,West
+10223,723,643,Sweet Potato,Vegetable,15,231.00,2024-08-14,East
+10224,724,644,White Onion,Vegetable,11,444.00,2024-08-15,South
+10225,725,645,Basmati Rice,Grain,3,150.00,2024-08-16,West
+10226,726,601,Almond Milk,Dairy,8,392.00,2024-08-17,West
+10227,727,602,Baguette,Bakery,13,180.00,2024-08-18,North
+10228,728,603,Organic Eggs,Dairy,16,443.00,2024-08-19,East
+10229,729,604,Ghee,Dairy,6,257.00,2024-08-20,South
+10230,730,605,Green Apple,Fruit,12,416.00,2024-08-21,East
+10231,731,606,Valencia Orange,Fruit,11,151.00,2024-08-22,East
+10232,732,607,Paneer,Dairy,1,272.00,2024-08-23,South
+10233,733,608,Cavendish Banana,Fruit,3,131.00,2024-08-24,West
+10234,734,609,Chocolate Cake,Bakery,16,292.00,2024-08-25,South
+10235,735,610,Turkey,Meat,16,338.00,2024-08-26,West
+10236,736,611,Ground Beef,Meat,15,413.00,2024-08-27,North
+10237,737,612,Oat Cookies,Bakery,3,158.00,2024-08-28,South
+10238,738,613,Cherry Tomato,Vegetable,13,362.00,2024-08-29,South
+10239,739,614,Red Potato,Vegetable,10,347.00,2024-08-30,East
+10240,740,615,Yellow Onion,Vegetable,16,291.00,2024-08-31,East
+10241,741,616,Tofu,Dairy,14,389.00,2024-01-09,East
+10242,742,617,Jasmine Rice,Grain,12,367.00,2024-02-09,West
+10243,743,618,Whole Wheat Flour,Grain,9,164.00,2024-03-09,East
+10244,744,619,Strawberry,Fruit,8,69.00,2024-04-09,South
+10245,745,620,Blueberry,Fruit,11,69.00,2024-05-09,South
+10246,746,621,Romaine Lettuce,Vegetable,7,118.00,2024-06-09,West
+10247,747,622,English Cucumber,Vegetable,9,378.00,2024-07-09,East
+10248,748,623,Carrot,Vegetable,4,434.00,2024-08-09,South
+10249,749,624,Alphonso Mango,Fruit,10,124.00,2024-09-09,East
+10250,750,625,Honey Pineapple,Fruit,6,162.00,2024-10-09,North
+10251,751,626,Greek Yogurt,Dairy,5,148.00,2024-11-09,North
+10252,752,627,Peanut Cookies,Bakery,2,291.00,2024-12-09,East
+10253,753,628,Strawberry Jam,Bakery,5,334.00,2024-09-13,West
+10254,754,629,Lamb,Meat,4,454.00,2024-09-14,North
+10255,755,630,Grilled Chicken,Meat,10,248.00,2024-09-15,West
+10256,756,631,Free-range Eggs,Dairy,15,182.00,2024-09-16,South
+10257,757,632,Skim Milk,Dairy,2,137.00,2024-09-17,West
+10258,758,633,Sourdough Bread,Bakery,4,428.00,2024-09-18,North
+10259,759,634,Butter,Dairy,13,259.00,2024-09-19,North
+10260,760,635,Red Apple,Fruit,2,85.00,2024-09-20,South
+10261,761,636,Navel Orange,Fruit,10,51.00,2024-09-21,South
+10262,762,637,Mozzarella Cheese,Dairy,4,293.00,2024-09-22,West
+10263,763,638,Vanilla Cake,Bakery,8,405.00,2024-09-23,West
+10264,764,639,Roast Chicken,Meat,15,473.00,2024-09-24,West
+10265,765,640,Beef Steak,Meat,10,448.00,2024-09-25,West
+10266,766,641,Oatmeal Cookies,Bakery,10,299.00,2024-09-26,North
+10267,767,642,Grape Tomato,Vegetable,4,493.00,2024-09-27,South
+10268,768,643,Sweet Potato,Vegetable,7,143.00,2024-09-28,North
+10269,769,644,White Onion,Vegetable,6,130.00,2024-09-29,South
+10270,770,645,Basmati Rice,Grain,3,88.00,2024-09-30,North
+10271,771,601,Almond Milk,Dairy,14,238.00,2024-01-10,West
+10272,772,602,Baguette,Bakery,10,24.00,2024-02-10,South
+10273,773,603,Organic Eggs,Dairy,10,369.00,2024-03-10,East
+10274,774,604,Ghee,Dairy,15,44.00,2024-04-10,South
+10275,775,605,Green Apple,Fruit,9,411.00,2024-05-10,South
+10276,776,606,Valencia Orange,Fruit,14,66.00,2024-06-10,South
+10277,777,607,Paneer,Dairy,5,473.00,2024-07-10,East
+10278,778,608,Cavendish Banana,Fruit,5,44.00,2024-08-10,North
+10279,779,609,Chocolate Cake,Bakery,6,413.00,2024-09-10,East
+10280,780,610,Turkey,Meat,10,232.00,2024-10-10,North
+10281,781,611,Ground Beef,Meat,15,360.00,2024-11-10,East
+10282,782,612,Oat Cookies,Bakery,13,490.00,2024-12-10,East
+10283,783,613,Cherry Tomato,Vegetable,16,232.00,2024-10-13,North
+10284,784,614,Red Potato,Vegetable,2,463.00,2024-10-14,West
+10285,785,615,Yellow Onion,Vegetable,11,317.00,2024-10-15,East
+10286,786,616,Tofu,Dairy,1,54.00,2024-10-16,South
+10287,787,617,Jasmine Rice,Grain,1,399.00,2024-10-17,East
+10288,788,618,Whole Wheat Flour,Grain,2,398.00,2024-10-18,South
+10289,789,619,Strawberry,Fruit,16,273.00,2024-10-19,West
+10290,790,620,Blueberry,Fruit,9,100.00,2024-10-20,West
+10291,791,621,Romaine Lettuce,Vegetable,16,54.00,2024-10-21,West
+10292,792,622,English Cucumber,Vegetable,12,217.00,2024-10-22,East
+10293,793,623,Carrot,Vegetable,11,351.00,2024-10-23,North
+10294,794,624,Alphonso Mango,Fruit,6,176.00,2024-10-24,West
+10295,795,625,Honey Pineapple,Fruit,16,155.00,2024-10-25,West
+10296,796,626,Greek Yogurt,Dairy,2,240.00,2024-10-26,North
+10297,797,627,Peanut Cookies,Bakery,11,137.00,2024-10-27,East
+10298,798,628,Strawberry Jam,Bakery,4,403.00,2024-10-28,West
+10299,799,629,Lamb,Meat,1,344.00,2024-10-29,West
+10300,800,630,Grilled Chicken,Meat,14,35.00,2024-10-30,South
